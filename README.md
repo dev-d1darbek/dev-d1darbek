@@ -14,17 +14,14 @@
 
 <!-- ═══════════ ӘЛЕУМЕТТІК СІЛТЕМЕЛЕР ═══════════ -->
 <p>
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+  <a href="https://t.me/dev_d1darbek">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="dev.d1darbek@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/dev-d1darbek">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -82,48 +79,13 @@ class Developer:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-d1darbek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-d1darbek&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-d1darbek&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dev-d1darbek&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
-</div>
 
----
-
-## 🎯 Ерекше жобаларым
-
-<div align="center">
-
-<a href="https://github.com/dev-d1darbek/ai_presentation_bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-d1darbek&repo=ai_presentation_bot&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/dev-d1darbek/telegram_kaspi_kurs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-d1darbek&repo=telegram_kaspi_kurs&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 📈 Апталық даму графигі
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-d1darbek&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
 
 ---
 
@@ -152,10 +114,10 @@ class Developer:
 
 **Бірге жоба жасағыңыз келсе — хабарласыңыз!**
 
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+<a href="https://t.me/dev_d1darbek">
   <img src="https://img.shields.io/badge/Telegram-Хабарласу-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="dev.d1darbek@gmail.com">
   <img src="https://img.shields.io/badge/Email-Жазу-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
